@@ -1,6 +1,6 @@
 # Sesion Meetup 
 
-1. Introducción
+## Introducción
 
 Felipe Gutierrez (Pivotal - Platform Architect) 
 
@@ -12,15 +12,15 @@ Books:
 https://apress.com
 Codigo: SpringBoot2
 
-2. Spring Framework
+## Spring Framework
 
 - SpringOne Platform Octubre 7-10. Austin, TX 
 - Github (Repositorio para Spring Framework Mexico Group)
 - Spring Tour (MEXICO) - Spring Team (Josh Long, Dave Sayer)
 
-3. Propuesta de Temas y lugar de sesiones
+## Propuesta de Temas y lugar de sesiones
 
-[Slides/Workshop]
+**Slides/Workshop**
 - Spring 101 (Principiantes)
 - Spring AOP (Avanzado) << Spring Boot
 - Spring Testing (Spring REST Docs, Spring Cloud Contracts > REST API)
@@ -33,13 +33,13 @@ Codigo: SpringBoot2
 - Pivotal (Cloud Foundry [PAS/PKS/PFS], RabbitMQ, GreenPlum, GemFire)
 - 3ros: Docker, Kubernetes
 
-Sesiones:
+**Sesiones:**
 - Virtual / Presencial /~~
 
-
+**Interaccion**
 - Interaccion del Grupo. El grupo debe dar sesiones de lo que estan haciendo.
 
-4. Siguiente Reunion
+## Siguiente Reunion
 
   Date: 9 Mayo 2019 - 8PM (Jueves)
  Lugar: Virtual (Zoom)
