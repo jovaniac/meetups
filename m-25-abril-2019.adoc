@@ -21,6 +21,7 @@ Codigo: SpringBoot2
 ## Propuesta de Temas y lugar de sesiones
 
 **Slides/Workshop**
+
 - Spring 101 (Principiantes)
 - Spring AOP (Avanzado) << Spring Boot
 - Spring Testing (Spring REST Docs, Spring Cloud Contracts > REST API)
@@ -34,9 +35,11 @@ Codigo: SpringBoot2
 - 3ros: Docker, Kubernetes
 
 **Sesiones:**
+
 - Virtual / Presencial /~~
 
 **Interaccion**
+
 - Interaccion del Grupo. El grupo debe dar sesiones de lo que estan haciendo.
 
 ## Siguiente Reunion
@@ -44,6 +47,5 @@ Codigo: SpringBoot2
   Date: 9 Mayo 2019 - 8PM (Jueves)
  Lugar: Virtual (Zoom)
 Agenda: 
-
-- Spring Framework Best Practices
-- Spring Testing (Alex)
+  - Spring Framework Best Practices
+  - Spring Testing (Alex)
