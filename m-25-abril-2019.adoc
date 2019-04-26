@@ -1,0 +1,49 @@
+# Sesion Meetup 
+
+1. Introducción
+
+Felipe Gutierrez (Pivotal - Platform Architect) 
+
+- PAS (Pivotal Application Service)
+- PKS (Pivotal Container Service)
+- PFS (Pivotal Function Service)
+  
+Books:
+https://apress.com
+Codigo: SpringBoot2
+
+2. Spring Framework
+
+- SpringOne Platform Octubre 7-10. Austin, TX 
+- Github (Repositorio para Spring Framework Mexico Group)
+- Spring Tour (MEXICO) - Spring Team (Josh Long, Dave Sayer)
+
+3. Propuesta de Temas y lugar de sesiones
+
+[Slides/Workshop]
+- Spring 101 (Principiantes)
+- Spring AOP (Avanzado) << Spring Boot
+- Spring Testing (Spring REST Docs, Spring Cloud Contracts > REST API)
+- Spring Data (SQL - NoSQL)
+- Spring Boot 101 (Principiantes)
+- Spring Boot (Avanzado - spring-starter)
+- Spring Integration 101
+- Spring Batch 101
+- Spring Cloud (Stream, Connectors, NetFlix, etc)
+- Pivotal (Cloud Foundry [PAS/PKS/PFS], RabbitMQ, GreenPlum, GemFire)
+- 3ros: Docker, Kubernetes
+
+Sesiones:
+- Virtual / Presencial /~~
+
+
+- Interaccion del Grupo. El grupo debe dar sesiones de lo que estan haciendo.
+
+4. Siguiente Reunion
+
+  Date: 9 Mayo 2019 - 8PM (Jueves)
+ Lugar: Virtual (Zoom)
+Agenda: 
+
+- Spring Framework Best Practices
+- Spring Testing (Alex)
